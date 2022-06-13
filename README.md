@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on a multivendor ecommerce project
 - 🌱 I’m currently learning 
   - Python and Django,
-  - JavaScript and React. 
+  - JavaScript and React.
+  - Laravel (PHP) 
   - Communicative English
   - Also I'm learning Data Structures & Algorithms.
 <!--
